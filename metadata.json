@@ -1,0 +1,9 @@
+{
+  "name": "DECA Hospitality Services Roleplay Room",
+  "description": "DECA Hospitality Services Team Decision Making (HTDM) video rehearsal room with AI judge scoring, real-time rubric feedback, and official case study bank.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
